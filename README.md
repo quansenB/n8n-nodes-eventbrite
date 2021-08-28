@@ -38,11 +38,7 @@ node /var/www/vhosts/n8n/bin/n8n
 
 # Latest functionality
 
-Eventbrite node includes Endpoints for Contacts, Custom Objects and Custom Object Data
-
-# Use
-
-Pass a data object.
+Eventbrite node includes Endpoints for Attendees
 
 # Contribution
 
