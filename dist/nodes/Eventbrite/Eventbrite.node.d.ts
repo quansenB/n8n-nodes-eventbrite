@@ -1,5 +1,5 @@
-import { IExecuteFunctions } from "n8n-core";
-import { ILoadOptionsFunctions, INodeExecutionData, INodePropertyOptions, INodeType, INodeTypeDescription } from "n8n-workflow";
+import { IExecuteFunctions } from 'n8n-core';
+import { ILoadOptionsFunctions, INodeExecutionData, INodePropertyOptions, INodeType, INodeTypeDescription } from 'n8n-workflow';
 export declare class Eventbrite implements INodeType {
     description: INodeTypeDescription;
     methods: {

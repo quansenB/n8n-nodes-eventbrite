@@ -1,8 +1,10 @@
 {
-	"node": "n8n-nodes-base.eventbrite",
+	"node": "n8n-nodes-base.eventbriteTrigger",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
-	"categories": ["Sales"],
+	"categories": [
+		"Sales"
+	],
 	"resources": {
 		"credentialDocumentation": [
 			{
@@ -11,7 +13,7 @@
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://docs.n8n.io/nodes/n8n-nodes-base.eventbrite/"
+				"url": "https://docs.n8n.io/nodes/n8n-nodes-base.eventbriteTrigger/"
 			}
 		],
 		"generic": [
